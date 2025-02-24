@@ -1,6 +1,5 @@
 package biblioteca;
 
-//TODO: DOcumentar la clase
 public class Libro {
 
     // TODO: Documentar estos atributos
