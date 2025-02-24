@@ -72,6 +72,7 @@ public class Biblioteca {
      * @param titulo
      * @return
      */
+    @Deprecated
     public Libro encuentraLibroPorTitulo(String titulo) {
         for (Libro libro : libros) {
             if (libro.getTitulo().equals(titulo)) {
